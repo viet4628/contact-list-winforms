@@ -1,1 +1,2 @@
-# contact-list-winforms
+- Nguyễn Xuân Việt - 2280603671
+- Trần Bảo Kiệt - 2280601651
